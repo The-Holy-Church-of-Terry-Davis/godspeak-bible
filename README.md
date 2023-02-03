@@ -15,3 +15,4 @@ just godspeak in a variety of languages.
 * PHP `.php`
 * Ruby `.rb`
 * CoffeeScript `.coffee`
+* Powershell `.ps1`
