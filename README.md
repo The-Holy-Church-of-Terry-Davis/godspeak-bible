@@ -4,7 +4,7 @@ just godspeak in a variety of languages.
 **Wanna add a new language? make a PR!**
 
 
-| Language     | Extension   |
+| Languages    | Extension   |
 | ------------ | ----------- |
 | Python       | `.py`         |
 | Julia        | `.jl`         |
