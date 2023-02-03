@@ -5,3 +5,5 @@ just godspeak in a variety of languages.
 * python
 * julia
 * kotlin
+* bash
+* java (🤮)
