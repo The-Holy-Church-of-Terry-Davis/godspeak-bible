@@ -2,9 +2,10 @@
 just godspeak in a variety of languages.
 
 **Languages:**
-* python
-* julia
-* kotlin
-* bash
-* java (🤮)
-* csharp (😎)
+* Python `.py`
+* Julia `.jl`
+* Kotin `.kt`
+* Bash `.sh`
+* Java `.java` (🤮)
+* C# `.cs` (😎)
+* C++ `.cpp`
