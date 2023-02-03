@@ -3,8 +3,8 @@ just godspeak in a variety of languages.
 
 **Wanna add a new language? make a PR!**
 
-
-| Languages    | Extension   |
+**Languages currently done:**
+| Language    | Extension   |
 | ------------ | ----------- |
 | Python       | `.py`         |
 | Julia        | `.jl`         |
