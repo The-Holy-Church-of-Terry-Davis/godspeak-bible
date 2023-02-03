@@ -14,3 +14,4 @@ just godspeak in a variety of languages.
 * C `.c`
 * PHP `.php`
 * Ruby `.rb`
+* CoffeeScript `.coffee`
