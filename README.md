@@ -17,14 +17,14 @@ just godspeak in a variety of languages.
 [Powershell]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/powershell.ps1
 
 **Languages currently done:**
-| Language    | Extension    | Language | Extension |
-| ------------ | ----------- | ----------- | ----------- |
-| [Python]       | `.py`       | [C++]          | `.cpp`     | 
-| [Julia]        | `.jl`       |  [C]            | `.c`      | 
-| [Kotlin]       | `.kt`       | [PHP]          | `.php`     | 
-| [Bash]         | `.sh`       | [Ruby]         | `.rb`      | 
-| [Java] (🤮)    | `.java`     | [CoffeeScript] | `.coffee`  | 
-| [C#] (😎)      | `.cs`       | [Powershell]   | `.ps1`     | 
+| Language       | Extension   | Language       | Extension |
+| -------------- | ----------- | -------------- | --------- |
+| [Python]       | `.py`       | [C++]          | `.cpp`    | 
+| [Julia]        | `.jl`       |  [C]           | `.c`      | 
+| [Kotlin]       | `.kt`       | [PHP]          | `.php`    | 
+| [Bash]         | `.sh`       | [Ruby]         | `.rb`     | 
+| [Java] (🤮)    | `.java`     | [CoffeeScript] | `.coffee` | 
+| [C#] (😎)      | `.cs`       | [Powershell]   | `.ps1`    | 
 
 
 
