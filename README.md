@@ -20,7 +20,7 @@ just godspeak in a variety of languages.
 | Language       | Extension   | Language       | Extension |
 | -------------- | ----------- | -------------- | --------- |
 | [Python]       | `.py`       | [C++]          | `.cpp`    | 
-| [Julia]        | `.jl`       |  [C]           | `.c`      | 
+| [Julia]        | `.jl`       | [C]            | `.c`      | 
 | [Kotlin]       | `.kt`       | [PHP]          | `.php`    | 
 | [Bash]         | `.sh`       | [Ruby]         | `.rb`     | 
 | [Java] (🤮)    | `.java`     | [CoffeeScript] | `.coffee` | 
