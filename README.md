@@ -9,3 +9,4 @@ just godspeak in a variety of languages.
 * Java `.java` (🤮)
 * C# `.cs` (😎)
 * C++ `.cpp`
+* C `.c`
