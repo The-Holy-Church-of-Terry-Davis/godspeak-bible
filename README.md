@@ -1,6 +1,8 @@
 # godspeak-bible
 just godspeak in a variety of languages.
 
+**Wanna add a new language? make a PR!**
+
 **Languages:**
 * Python `.py`
 * Julia `.jl`
