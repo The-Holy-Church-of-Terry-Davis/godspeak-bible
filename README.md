@@ -7,3 +7,4 @@ just godspeak in a variety of languages.
 * kotlin
 * bash
 * java (🤮)
+* csharp (😎)
