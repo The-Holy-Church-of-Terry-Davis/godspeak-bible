@@ -12,3 +12,4 @@ just godspeak in a variety of languages.
 * C# `.cs` (😎)
 * C++ `.cpp`
 * C `.c`
+* PHP `.php`
