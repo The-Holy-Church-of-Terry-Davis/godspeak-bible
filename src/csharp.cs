@@ -9,8 +9,7 @@ class Program
     string[] f = File.ReadAllLines("vocab.txt");
 
     Random r = new Random();
-    int i = r.Next(f.Length) - 1;
-    Console.WriteLine(f[i]);
+    Console.WriteLine(f[r.Next(f.Length-1)]);
     //
     }
 }
