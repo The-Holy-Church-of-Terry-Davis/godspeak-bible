@@ -13,3 +13,4 @@ just godspeak in a variety of languages.
 * C++ `.cpp`
 * C `.c`
 * PHP `.php`
+* Ruby `.rb`
