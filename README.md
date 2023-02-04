@@ -21,6 +21,8 @@ just godspeak in a variety of languages.
 [Scala]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/scala.scala
 [R]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/r.r
 [Swift]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/swift.swift
+[Rust]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/rust.rs
+[Crystal]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/crystal.cr
 
 **Languages currently done:**
 | Language       | Extension   | Language       | Extension |
@@ -34,3 +36,4 @@ just godspeak in a variety of languages.
 | [Go]           | `.go`        | [Clojure] | `.clj` |
 | [Dart]         | `.dart`     | [Scala] | `.scala` |
 | [R]            | `.r`         | [Swift] | `.swift` |
+| [Rust]         | `.rs`        | [Crystal] | `.cr` |
