@@ -15,6 +15,11 @@ just godspeak in a variety of languages.
 [Ruby]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/ruby.rb
 [CoffeeScript]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/coffeescript.coffee
 [Powershell]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/powershell.ps1
+[Go]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/go.go
+[Clojure]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/clojure.clj
+[Dart]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/dart.dart
+[R]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/r.r
+[Swift]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/swift.swift
 
 **Languages currently done:**
 | Language       | Extension   | Language       | Extension |
@@ -25,6 +30,6 @@ just godspeak in a variety of languages.
 | [Bash]         | `.sh`       | [Ruby]         | `.rb`     | 
 | [Java] (🤮)    | `.java`     | [CoffeeScript] | `.coffee` | 
 | [C#] (😎)      | `.cs`       | [Powershell]   | `.ps1`    | 
-
-
-
+| [Go]           | `.go`        | [Clojure] | `.clj` |
+| [Dart]         | `.dart`     | [Scala] | `.scala` |
+| [R]            | `.r`         | [Swift] | `.swift` |
