@@ -18,6 +18,7 @@ just godspeak in a variety of languages.
 [Go]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/go.go
 [Clojure]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/clojure.clj
 [Dart]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/dart.dart
+[Scala]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/scala.scala
 [R]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/r.r
 [Swift]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/swift.swift
 
