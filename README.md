@@ -1,7 +1,7 @@
 # godspeak-bible
 just godspeak in a variety of languages.
 
-**Wanna add a new language? make a PR!**
+**Wanna add a new language? make a PR or an Issue!**
 
 [Python]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/python.py
 [Julia]: https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible/blob/main/src/julia.jl
